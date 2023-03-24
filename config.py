@@ -15,7 +15,7 @@ template_id3 = "-fun9-2************************************"
 user = ["oQWUJ6G38ChBMO9_1PkmUVoktKa8"]
 
 # 信息配置
-data = "2023-3-24"
+date = "2023-3-24"
 # 所在省份
 province = "四川"
 # 所在城市
